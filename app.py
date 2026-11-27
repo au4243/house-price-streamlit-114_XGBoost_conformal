@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("🏠 房價估價系統（文字版）｜依據 114 年 不動產成交資料")
+st.title("🏠 房價估價系統（文字版）｜依據 112年~114 年 不動產成交資料")
 st.caption("XGBoost_split conformal prediction + 可解釋 AI（SHAP）")  # 修改為 CatBoost
 
 # =========================
